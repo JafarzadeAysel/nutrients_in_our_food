@@ -7,5 +7,7 @@ Are you interested how much calorie and vitamins you get from your food? You can
 
 ## Code and Resources Used 
 **Libraries:** pandas, requests, json
-**Link to Website:** https://www.edamam.com/  
+
+**Link to Website:** https://www.edamam.com/
+
 **Link to Api:** https://developer.edamam.com/edamam-nutrition-api
