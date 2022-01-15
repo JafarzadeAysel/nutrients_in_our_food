@@ -3,7 +3,7 @@ Are you interested how much calorie and vitamins you get from your food? You can
 * Created a tool that estmates nutrients in our daily food combinations to help people to be careful about the foods they consume
 * Extracted data through free API
 * Built Data Frame object that shows all nutrients in specified combination
-* Built visualizations related to vitamins,minerals, water, carbohydrates, protein and fat
+* Built visualizations related to vitamins and minerals
 
 
 ## Code and Resources Used 
