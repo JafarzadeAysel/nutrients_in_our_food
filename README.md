@@ -17,5 +17,7 @@ Are you interested how much calorie and vitamins you get from your food? You can
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
 
 ![alt text](https://github.com/JafarzadeAysel/nutrients_in_our_food/blob/5baca2a5fd0708f6e8a2e68715c4de758dcd835e/nutrients_table.PNG "Nutrients on specified combination")
+
 ![alt text](https://github.com/JafarzadeAysel/nutrients_in_our_food/blob/65d178d20e1c33796253705aae1c28000e947659/minerals_in_food.PNG "Minerals on specified combination")
+
 ![alt text](https://github.com/JafarzadeAysel/nutrients_in_our_food/blob/5baca2a5fd0708f6e8a2e68715c4de758dcd835e/vitamins_on_food.PNG "Vitamins on specified combination")
